@@ -1,0 +1,4 @@
+[tools]
+rojo = {github = "rojo-rbx/rojo", version = "7.2.0"}
+selene = {github = "Kampfkarren/selene", version = "*"}
+wally = {github = "UpliftGames/wally", version = "0.3.1"}
